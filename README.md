@@ -19,7 +19,7 @@ If you have never looked at this code before. Just follow these quick steps:
 
 **Step-by-step setup:**
 1. Download or clone this project folder to your computer:
-   `git clone https://github.com/parth1914/spotify-genre-classifier`
+   `git clone https://github.com/parth1914/spotify-genre-classifier.git`
 2. Open your terminal, go into the project folder, and install the required tools:
    `pip install -r requirements.txt`
 3. Get the data, Download the Spotify Tracks Dataset from Kaggle:(https://www.kaggle.com/datasets/yashdev01/spotify-tracks-dataset/data).
